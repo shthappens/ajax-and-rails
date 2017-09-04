@@ -1,0 +1,7 @@
+---
+title: "AJAX and Rails"
+type: "exercise"
+description: "Walkthrough building an API endpoint and interacting with it via JavaScript."
+tags: "rails, api, jasmine"
+ignore:
+- "ajax-and-rails.md"
